@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm currently learning front-end development from Meta.
-I have some Java and Python experience. 
+I'm currently learning front-end development from Meta. <br/>
+I have some Java and Python experience. <br/>
 
 <!--
 **romokobb/romokobb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
